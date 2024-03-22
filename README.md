@@ -8,4 +8,4 @@ Rockbuster Stealth LLC, a movie rental company, is venturing into the online vid
 
 Rockbuster's Management Board has posed critical business questions, ranging from revenue analysis to customer insights, that require data-driven answers. By harnessing SQL, we aim to address these questions comprehensively. Our objectives include identifying top-performing movies, analyzing rental duration, understanding customer demographics, and exploring sales variations across geographic regions.
 
-[Tableau:https://public.tableau.com/views/Rockbustercustomerlocations_/CustomerLocations?:language=en-US&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Rockbustercustomerlocations_/CustomerLocations?:language=en-US&:display_count=n&:origin=viz_share_link)
+Tableau: [https://public.tableau.com/views/Rockbustercustomerlocations_/CustomerLocations?:language=en-US&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Rockbustercustomerlocations_/CustomerLocations?:language=en-US&:display_count=n&:origin=viz_share_link)
